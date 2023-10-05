@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=varshini1809&show_icons=true&theme=tokyonight"/>
+
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=varshini1809&theme=tokyonight"/>
