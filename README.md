@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#1](https://github.com/varshini1809/Git-Practice/issues/1) in [varshini1809/Git-Practice](https://github.com/varshini1809/Git-Practice)
+2. ❗ Opened issue [#8261](https://github.com/EddieHubCommunity/support/issues/8261) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🎉 Merged PR [#1](https://github.com/varshini1809/PasswordGenerator/pull/1) in [varshini1809/PasswordGenerator](https://github.com/varshini1809/PasswordGenerator)
+4. 💪 Opened PR [#1](https://github.com/varshini1809/PasswordGenerator/pull/1) in [varshini1809/PasswordGenerator](https://github.com/varshini1809/PasswordGenerator)
+5. 💪 Opened PR [#149](https://github.com/CommClassroomOP/Community-Classroom-OP/pull/149) in [CommClassroomOP/Community-Classroom-OP](https://github.com/CommClassroomOP/Community-Classroom-OP)
 <!--END_SECTION:activity-->
 
 <p align="left">
