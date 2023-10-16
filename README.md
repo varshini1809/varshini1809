@@ -1,6 +1,6 @@
 ### Hi there. I am varshini, Great to see you here.👋
 
-
+<!--
 **varshini1809/varshini1809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @varshini.18shankar19@gmail.com...
 - 😄 Pronouns: she/her...
 - ⚡ Fun fact: ...
-
+-->
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#8284](https://github.com/EddieHubCommunity/support/issues/8284) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
